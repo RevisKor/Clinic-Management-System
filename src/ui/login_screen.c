@@ -2,7 +2,7 @@
 
 void LoginScreen_Show(void) {
     printf("\n");
-    printf("  REVISKOR\n");
+    printf("  CLINIC MANAGEMENT SYSTEM\n");
     printf("  ------------------------\n");
     printf("  [1] Log In to Your Account\n");
     printf("  [2] Register New Account\n");
