@@ -1,4 +1,4 @@
-# Clinic Management System
+# RevisKor
 
 A terminal-based clinic management system written in C. Patients can register,
 log in, and book or cancel appointments; an admin account can review the
